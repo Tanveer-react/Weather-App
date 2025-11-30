@@ -1,51 +1,60 @@
-Weather App 🌤️
+# Weather App 🌤️
 
-Weather App is a modern, responsive, and interactive web application that provides real-time weather information for any city worldwide. The app is designed to deliver a smooth, user-friendly experience with accurate and up-to-date weather data. It’s perfect for showcasing front-end development skills and API integration.
+A modern, responsive, and interactive web application that provides **real-time weather information** for any city worldwide. Designed for a smooth, user-friendly experience with accurate and up-to-date weather data. Perfect for showcasing **front-end development skills** and **API integration**.
 
-Features ✨
+---
 
-Search Functionality: Enter any city name and instantly get the current weather details.
+## Features ✨
 
-Real-Time Weather Data: Displays temperature, humidity, wind speed, and general weather conditions.
+- **Search Functionality:** Enter any city name and instantly get the current weather details.  
+- **Real-Time Weather Data:** Displays temperature, humidity, wind speed, and general weather conditions.  
+- **Responsive Design:** Fully compatible with desktop, tablet, and mobile devices.  
+- **User-Friendly Interface:** Clean and modern UI with easy navigation.  
+- **Dynamic Updates:** Weather data updates in real-time using API responses.  
+- **API Integration:** Utilizes OpenWeatherMap API for accurate weather information.
 
-Responsive Design: Fully compatible with desktop, tablet, and mobile devices.
+---
 
-User-Friendly Interface: Clean and modern UI with easy navigation.
+## Screenshots 🖼️
 
-Dynamic Updates: Weather data updates in real-time based on API responses.
+Add your screenshots here to demonstrate your app’s design and functionality:
 
-API Integration: Utilizes OpenWeatherMap API (or other weather API) for accurate weather information.
+![Screenshot 1](# Weather App 🌤️
 
+A modern, responsive, and interactive web application that provides **real-time weather information** for any city worldwide. Designed for a smooth, user-friendly experience with accurate and up-to-date weather data. Perfect for showcasing **front-end development skills** and **API integration**.
 
-Add high-quality screenshots here to demonstrate your app’s design and functionality.
+---
 
-How to Use 🚀
+## Features ✨
 
-Clone the repository:
+- **Search Functionality:** Enter any city name and instantly get the current weather details.  
+- **Real-Time Weather Data:** Displays temperature, humidity, wind speed, and general weather conditions.  
+- **Responsive Design:** Fully compatible with desktop, tablet, and mobile devices.  
+- **User-Friendly Interface:** Clean and modern UI with easy navigation.  
+- **Dynamic Updates:** Weather data updates in real-time using API responses.  
+- **API Integration:** Utilizes OpenWeatherMap API for accurate weather information.
 
-git clone https://github.com/Tanveer-react/Weather-App
+---
 
+## Screenshots 🖼️
 
-Navigate to the project folder:
+Add your screenshots here to demonstrate your app’s design and functionality:
 
-cd weather-app
+![Screenshot 1](https://github.com/Tanveer-react/Weather-App/blob/main/Screenshot%202025-11-30%20062708.png?raw=true)  
+![Screenshot 2](https://github.com/Tanveer-react/Weather-App/blob/main/Screenshot%202025-11-30%20062756.png?raw=true)  
+![Screenshot 3](https://github.com/Tanveer-react/Weather-App/blob/main/Screenshot%202025-11-30%20062902.png?raw=true)  
 
+---
 
-Open index.html (if using vanilla JS) or run your development server (if using React).
+## How to Use 🚀
 
-Enter a city name in the search bar and press enter.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Tanveer-react/Weather-App.git
+)  
 
-View weather details instantly with real-time updates.
+## How to Use 🚀
 
-Technologies Used 💻
-
-Frontend: HTML5, CSS3, JavaScript / React.js
-
-API: OpenWeatherMap API (or the weather API you used)
-
-Design: Responsive layout with modern UI/UX principles
-
-Live Demo 🌐
-
-Check out the live version of the app here:
-https://github.com/Tanveer-react/Weather-App
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Tanveer-react/Weather-App.git
