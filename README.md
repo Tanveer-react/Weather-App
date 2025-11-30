@@ -23,7 +23,7 @@ How to Use 🚀
 
 Clone the repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Tanveer-react/Weather-App
 
 
 Navigate to the project folder:
