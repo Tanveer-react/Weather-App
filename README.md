@@ -4,26 +4,6 @@ A modern, responsive, and interactive web application that provides **real-time 
 
 ---
 
-## Features ✨
-
-- **Search Functionality:** Enter any city name and instantly get the current weather details.  
-- **Real-Time Weather Data:** Displays temperature, humidity, wind speed, and general weather conditions.  
-- **Responsive Design:** Fully compatible with desktop, tablet, and mobile devices.  
-- **User-Friendly Interface:** Clean and modern UI with easy navigation.  
-- **Dynamic Updates:** Weather data updates in real-time using API responses.  
-- **API Integration:** Utilizes OpenWeatherMap API for accurate weather information.
-
----
-
-## Screenshots 🖼️
-
-Add your screenshots here to demonstrate your app’s design and functionality:
-
-![Screenshot 1](# Weather App 🌤️
-
-A modern, responsive, and interactive web application that provides **real-time weather information** for any city worldwide. Designed for a smooth, user-friendly experience with accurate and up-to-date weather data. Perfect for showcasing **front-end development skills** and **API integration**.
-
----
 
 ## Features ✨
 
