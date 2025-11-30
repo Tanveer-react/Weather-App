@@ -16,7 +16,6 @@ Dynamic Updates: Weather data updates in real-time based on API responses.
 
 API Integration: Utilizes OpenWeatherMap API (or other weather API) for accurate weather information.
 
-[![Weather App Screenshot](images/screenshot.png)](images/screenshot.png)
 
 Add high-quality screenshots here to demonstrate your app’s design and functionality.
 
